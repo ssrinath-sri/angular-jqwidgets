@@ -1,3 +1,4 @@
 # angular-jqwidgets
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ssrinath-sri/angular-jqwidgets)
+1. Steps follow the install jqwidgets lib
+
